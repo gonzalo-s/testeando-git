@@ -1,0 +1,4 @@
+{"name":"John", "age":30, "car":null}
+{"name":"Doe", "age":21, "car":"vw"}
+{"name":"sussan", "age":31, "car":"none"}
+{"name":"Peter", "age":25, "car":"chev"}
